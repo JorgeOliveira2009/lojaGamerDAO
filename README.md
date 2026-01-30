@@ -74,7 +74,6 @@ O padrão DAO é utilizado para:
 - Java
 - JDBC
 - MySQL
-- Git e GitHub
 
 ---
 
