@@ -77,8 +77,3 @@ O padrão DAO é utilizado para:
 
 ---
 
-## 📌 Observações
-
-- O projeto utiliza `PreparedStatement` para evitar SQL Injection.
-- A formatação de valores monetários é feita apenas na exibição.
-- Projeto com fins educacionais.
